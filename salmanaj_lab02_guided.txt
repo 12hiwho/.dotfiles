@@ -1,0 +1,10 @@
+Salman Abdalmannan 
+
+I used the command pwd to show the global path and then i created a file in the directorie colled
+vimrc 
+
+set autoindent
+set number
+set ignorecase
+color elflord
+
