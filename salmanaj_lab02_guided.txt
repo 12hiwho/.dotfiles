@@ -1,6 +1,6 @@
 Salman Abdalmannan 
 
-I used the command pwd to show the global path and then i created a file in the directorie colled
+I used the command pwd to show the global path and then i created a file in the directory called
 vimrc 
 
 set autoindent
